@@ -417,8 +417,3 @@ Test.assertEquals(top15WordsAndCounts,
                    (u'a', 14593), (u'you', 13615), (u'my', 12481), (u'in', 10956), (u'that', 10890),
                    (u'is', 9134), (u'not', 8497), (u'with', 7771), (u'me', 7769), (u'it', 7678)],
                   'incorrect value for top15WordsAndCounts')
-
-
-# In[ ]:
-
-
