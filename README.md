@@ -9,4 +9,4 @@ The labs include:
   * Building a movie recommedation system for myself. Dataset: http://grouplens.org/datasets/movielens/
   * Working with NumPy and python lambda expressions
   * Predict release year of songs based on certain attributes. Dataset: http://labrosa.ee.columbia.edu/millionsong/
-  * Create a Click Through Rate (CTR) prediction pipeline. Dataset used in this challenge: https://www.kaggle.com/c/criteo-display-ad-challenge
+  * Create a Click Through Rate (CTR) prediction pipeline. Dataset used in the following challenge: https://www.kaggle.com/c/criteo-display-ad-challenge
