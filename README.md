@@ -1,4 +1,5 @@
 # Berkeley-big-data-ML
+# Please don't go through this if you haven't already had a go yourself. You can take back/suggest further optimisations from here.
 Big data, ml labs for berkeleyX
 
 These are the labs I completed as part of the big data and ML courses offered by Berkeley. 
